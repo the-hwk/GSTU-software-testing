@@ -1,4 +1,4 @@
 ## Составление bug-листа
-- файл [Bug-лист (пример).xlsx](https://github.com/the-hwk/GSTU-software-testing/blob/main/Bug-%D0%BB%D0%B8%D1%81%D1%82%20(%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80).xlsx)
+- файл [Пример bug-листа.xlsx](https://github.com/the-hwk/GSTU-software-testing/blob/main/L3/%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%20bug-%D0%BB%D0%B8%D1%81%D1%82%D0%B0.xlsx)
 - найти, вычислить, локализировать баги в выбранном Вами проекте
   - если багов нету, то придумываем (минимум 5)
