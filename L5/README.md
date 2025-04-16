@@ -20,7 +20,8 @@
 
 ---
 
-**Пример описания метода:** `GET /groups/{id}`
+**Пример описания метода:**
+ `GET /groups/{id}`
 Data for a specific group.
 
 **Params:**
