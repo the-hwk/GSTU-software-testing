@@ -18,7 +18,7 @@
 
 **Разрешается (даже рекомендуется) оформить документацию на английском языке**
 
-**Пример описания метода:** `GET /groups/{id}`.
+**Пример описания метода:** `GET /groups/{id}`  
 Data for a specific group.
 
 **Params:**
@@ -36,7 +36,7 @@ Body:
     - `firstName` - first name of the student (`string`)
 
 **Error response:**
-Code: `400 Bad request`.
+Code: `400 Bad request`  
 If `id` is wrong or group with this `id` does not exist.
 
 ### Дополнительно
