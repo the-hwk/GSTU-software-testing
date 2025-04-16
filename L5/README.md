@@ -19,15 +19,15 @@
 **Разрешается (даже рекомендуется) оформить документацию на английском языке**
 
 **Пример описания метода:** `GET /groups/{id}`  
-Data for a specific group.
+Data for a specific group.  
 
-**Params:**
-- `id` - ID of the group (`integer`, `> 0`)
+**Params:**  
+- `id` - ID of the group (`integer`, `> 0`)  
 
-**Success response:**
-Code: `200 OK`
-Content-Type: `application/json`
-Body:
+**Success response:**  
+Code: `200 OK`  
+Content-Type: `application/json`  
+Body:  
 - `id` - ID of the group (`integer`)
 - `name` - name of the group (`string`)
 - `students` - array of students (see _Student API_)
@@ -35,9 +35,9 @@ Body:
     - `lastName` - last name of the student (`string`)
     - `firstName` - first name of the student (`string`)
 
-**Error response:**
+**Error response:**  
 Code: `400 Bad request`  
-If `id` is wrong or group with this `id` does not exist.
+If `id` is wrong or group with this `id` does not exist.  
 
 ### Дополнительно
 
